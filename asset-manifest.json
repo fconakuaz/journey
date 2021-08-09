@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/journey/static/css/main.c5227853.chunk.css",
-    "main.js": "/journey/static/js/main.211a5ec2.chunk.js",
-    "main.js.map": "/journey/static/js/main.211a5ec2.chunk.js.map",
-    "runtime-main.js": "/journey/static/js/runtime-main.a32d87be.js",
-    "runtime-main.js.map": "/journey/static/js/runtime-main.a32d87be.js.map",
-    "static/js/2.f100b5d4.chunk.js": "/journey/static/js/2.f100b5d4.chunk.js",
-    "static/js/2.f100b5d4.chunk.js.map": "/journey/static/js/2.f100b5d4.chunk.js.map",
-    "index.html": "/journey/index.html",
-    "static/css/main.c5227853.chunk.css.map": "/journey/static/css/main.c5227853.chunk.css.map",
-    "static/js/2.f100b5d4.chunk.js.LICENSE.txt": "/journey/static/js/2.f100b5d4.chunk.js.LICENSE.txt"
+    "main.css": "/diario/static/css/main.c5227853.chunk.css",
+    "main.js": "/diario/static/js/main.211a5ec2.chunk.js",
+    "main.js.map": "/diario/static/js/main.211a5ec2.chunk.js.map",
+    "runtime-main.js": "/diario/static/js/runtime-main.40ae51f7.js",
+    "runtime-main.js.map": "/diario/static/js/runtime-main.40ae51f7.js.map",
+    "static/js/2.99a08685.chunk.js": "/diario/static/js/2.99a08685.chunk.js",
+    "static/js/2.99a08685.chunk.js.map": "/diario/static/js/2.99a08685.chunk.js.map",
+    "index.html": "/diario/index.html",
+    "static/css/main.c5227853.chunk.css.map": "/diario/static/css/main.c5227853.chunk.css.map",
+    "static/js/2.99a08685.chunk.js.LICENSE.txt": "/diario/static/js/2.99a08685.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a32d87be.js",
-    "static/js/2.f100b5d4.chunk.js",
+    "static/js/runtime-main.40ae51f7.js",
+    "static/js/2.99a08685.chunk.js",
     "static/css/main.c5227853.chunk.css",
     "static/js/main.211a5ec2.chunk.js"
   ]
